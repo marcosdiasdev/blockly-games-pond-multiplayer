@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ar">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>مخاط</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>إذا هناك مسار في الأمام</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>قائمة</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>انزال القلم</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>شارب</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>فرو</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>إرسم مستطيل في المكان المحدد وبالطول والعرض \nالمحددين. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>البركة.</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>يلحن الملاحظات الأربعة الأولى من 'الأخ جيمس'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>صدفة</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>انتقل إلى الخلف بواسطة</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>هناك مجموعة جديدة تسمح لك بتغيير اللون:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>إرسم نجمة صفراء.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>هذا المستوى يحتاج كلا من المجموعة "else if" والمجموعة  "else'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>كتلة 'إذا ستقوم بعمل شيء ما في حالة كن الشرط صحيحا. حاول الدوران إلى اليسار إذا كان هناك مسار إلى اليسار.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>جوقة</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>افعل</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>لقد قمت باستخدام جميع الكتل في هذا المستوى. لعمل كتلة جديدة. عليك اولا مسح كتل موجودة.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>يدور اللاعب الى اليمين أو اليسار بمقدار 90 درجة.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>انقر فوق الرمز لتعديل المجموعة "if".</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>رقاص الساعة</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>حجم الخط</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>إعادة ضبط</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>يجعل اللاعب يقوم بما تقوله البلوكات.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>المجموعة "and" صحيحة فقط إذا كانت كل مدخلاتها صحيحة.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>درجة واحدة (C4 تكون 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>كمان</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>استدر الى اليمين</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>جعل الساقين في الاتجاه المعاكس في منتصف الطريق من خلال الفيلم.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>هل ترغب في البدأ من جديد؟</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>سحب المجموعة 'else' في المجموعة 'if'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>ص</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>نص</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>حذف كل حلولك؟</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>يلحن أي شيء تريده، لديك عدد كبير من الكتل الجديدة التي يمكنك استكشافها. استمتع!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>قيثارة</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>لكل حيوان(بالأخضر) صل صورته و اختر عدد ارجله و اجمع سماته.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>سمة:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>ينتظر لمدة محددة.</target>
+      </trans-unit>

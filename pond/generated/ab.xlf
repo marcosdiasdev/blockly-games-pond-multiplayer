@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ab">
+    <body>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>амҩа аҧхьаҟа иҟазар</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>ахьӡынҵа</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>акалам лашьҭтәуп</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Аҧаҵақәа</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Ииага аблок "акәымзар" аблок "акәзар" ахь.</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Аӡҭачы</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Аракушка</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Иҭышәх аеҵәа ҩежь.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>инагӡатәуп</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>иргежьтәуп армарахь ала</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Азаза</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>ашрифт ашәагаа</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Иқәгатәуп</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Аныҟәаҩ иҟаиҵоит аблокқәа иарҳәо зегьы.</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>аҧхьарца</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>игьежьтәуп арӷьарахь</target>
+      </trans-unit>
+      <trans-unit id="559492161625200378" datatype="html">
+        <target>Ашулер</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Ишәҭахәума ҿыц алагара?</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Ахықәкы</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>Атеқст</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Иныхәтәума аҳасабрақәа зегьы?</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>агитара</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>аҷыдарақәа:</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Иҭагалатәуп асахьа Reddit аҟынтәи.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ацхыраара</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Алогика</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Агенетика</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Аҵыс</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>аура</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Аҽеиҭакқәа</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Идәықәҵатәуп апрограмма</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Ибзиоуп!
+Аблокқәа (%1) зегьы иахьрыхәҭоу иргылоуп.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>Аблокқәа (%1) ҧыҭк иахьрыхәҭоу иргылам.</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Дырхынҳәтәуп аныҟәаҩ алибиринт алагамҭахь.</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>иқәыргылатәуп аҧштәы</target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Иҳанаҭоит уажәтәи аамҭа афильм(0-100) аҟны.</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>апианино</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>акәымзар</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Алабиринт</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Ашрифт</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>шәахәаҧш Агалереиа</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>акәакьҭаиаша</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Игәаҭатәуп Алҵшәа</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>икьыҧхьтәуп</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Амузыка</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>афлеита</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Иршәоу</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Аҧштәы</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Еиқәырхатәуп иагьаарҧштәуп аблокқәа рахь азхьарҧш.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>иҵәахтәуп акәуа</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ицатәуп ҧхьаҟа</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>игьежьтәуп арӷьарахь ала</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>аҧсаатә аҧынҵа</target>
+      </trans-unit>
+      <trans-unit id="8948280862093710040" datatype="html">
+        <target>Аҧхьаӡага</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>аҵыхәтәантәи у</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Афункциақәа</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>аҵәаӷәа</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>Ашрифт</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Дыргьежьтәуп аныҟәаҩ 90 градус рыла армарахь ма \nарӷьарахь. </target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Идәықәҵа еиқәуршәаз апрограмма.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Ианыхтәуп адырқәа</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>адаул</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Иаанартуеит асахьақәа ргалереиа Reddit аҟны.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>агьежь</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Аблокқәа</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Акәуа</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>атруба</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Иҭагалатәуп шәфильм Reddit ахь.</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>аҵыхәтәантәи х</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Шәара шәазыхиоума %1 аҩаӡара?</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Аҟәыхра</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Иалышәх агәыҧ, аблокқәа шәбарцаз.</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>ахырхарҭа</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Шәара ишәзынхеит аблокқәа %1.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Шәара ишәзынхеит %0 блокк.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Шәара ишәзынхеит аблокқәа %2.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>аҭбаара</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>амҩа арӷьарахь иҟазар</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>амҩа армарахь иҟазар</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>Арадиус</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Аплеер</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Иаҧсахуеит акалам аҧштәы</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Ацха</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>акалам иҩахатәуп</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>шәахәаҧш Агалереиа</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>иргежьтәуп армарахь</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>ахор</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Акамыршша</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Хәыҷык агуп! Блокк ахьгыло аҭыҧ иашаӡам.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>асахьа:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Атеқст</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Акәата</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Ацгәы</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Ашьхымӡа</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>иаабац</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Ацгәы</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Иалкаау аблок иахьгыло аҭыҧ иашаӡам.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>алагамҭатә х</target>
+      </trans-unit>
+      <trans-unit id="2031348347259929659" datatype="html">
+        <target>Аснаипер</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Иҭагалатәуп Агалереиахь</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Акамыршша</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Ахьӡынҵақәа</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Ахыҧҽыга</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ашьапқәа:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Ашьхыц</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Ишәыдаҳныҳәалоит!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly Ахәмаррақәа</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Иаҧсахуеит акалам аҧштәы</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>ижәпоу</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>инагӡалатәуп акәымзар</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Ациклқәа</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Иҭагалатәуп Агалереиахь</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Афильм</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>иалышәх...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>алагамҭатә у</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Аӡҭачы Tutor</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Адокументация</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>иаарҧштәуп акәуа</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>акурсив</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>банджо</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>иқәыргылатәуп аҧштәы</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Иаҧҵа апрограмма, аквадрат асахьа ҭызхуа.</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ахәаҷа кӡам</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Акәата</target>
+      </trans-unit>
+      <trans-unit id="3387788241869183183" datatype="html">
+        <target>Ажьа</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Аматематика</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="af">
+    <body>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Byna! Eén blok is inkorrek.</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfek!
+Al %1 blokke is korrek.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blokke is inkorrek.</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Die gemerkte blok is nie korrek nie.
+Hou aan om te probeer.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>kies...</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Hulp</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Kontroleer antwoorde</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Legkaart</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
